@@ -1,4 +1,4 @@
-import { insertData, retrieveData } from '../insertData.js'
+import { insertData, retrieveData } from '../insertData'
 
 insertData();
 retrieveData();
